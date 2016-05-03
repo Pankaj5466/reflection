@@ -2,4 +2,10 @@
 2222
 6
 
-in master
+
+in master (now mergerd)
+
+modified after 2.txt in the banch!!! and then commited (also merged)
+
+NOW BOTH master and branch1 is merged now
+
